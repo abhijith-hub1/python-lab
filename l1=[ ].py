@@ -1,0 +1,11 @@
+l1=[]
+print(l1)
+L=[10,20,30,40,]
+print(L)
+L.append(50)
+print(L)
+L.insert(0,0)
+print(L)
+L.extend([60,70,80,90,100])
+l1=L
+print(l1)
